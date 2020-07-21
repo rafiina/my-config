@@ -1,0 +1,26 @@
+{
+    "editor.tabSize": 2,
+    "html.format.indentInnerHtml": true,
+    "workbench.colorTheme": "Dracula",
+    "editor.formatOnSave": true,
+    "html.autoClosingTags": false,
+    "editor.fontFamily": "Fira Code",
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "explorer.confirmDragAndDrop": false,
+    "breadcrumbs.enabled": true,
+    "html.format.endWithNewline": true,
+    "editor.overviewRulerBorder": false,
+    "emmet.syntaxProfiles": {
+      "html": {
+        "attr_quotes": "single"
+      }
+    },
+    "editor.renderLineHighlight": "all",
+    "editor.showFoldingControls": "always",
+    "editor.detectIndentation": false,
+    "git.autofetch": true,
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.visible": true,
+  }

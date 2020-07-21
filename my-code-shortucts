@@ -1,0 +1,26 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+  {
+    "key": "ctrl+w",
+    "command": "workbench.action.terminal.kill",
+    "when": "terminalFocus",
+  },
+  {
+    "key": "shift+alt+right",
+    "command": "workbench.action.moveEditorToNextGroup",
+    "when": ""
+  },
+  {
+    "key": "shift+alt+left",
+    "command": "workbench.action.moveEditorToPreviousGroup",
+    "when": ""
+  },
+  {
+    "key": "shift+alt+l",
+    "command": "workbench.action.focusNextGroup"
+  },
+  {
+    "key": "shift+alt+h",
+    "command": "workbench.action.focusPreviousGroup"
+  }
+]
